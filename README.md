@@ -1,7 +1,5 @@
-<h1 align="left">Hi Dev's, sou o Henrique Siqueira</h1>
-<h3 align="left">Aspirante a desenvolvedor Mobile</h3>
-  <h6 align="left"> Trabalho no Ramo de desenvolvimento Mobile a pouco mais de um ano, no meu Portifólio de experiencia já atuei de forma terceirizada no Aplicativo do Banco Next Bradesco, onde desenvolvi novas funcionalidades de forma nativa Android com Java no setor de transações cotidianas. </h6> 
-<h6 align="left"> Hoje estudo Desenvolvimento nativo utilizando Kotlin </h6>
+<h1 align="left">Hi Dev's, me chamo Henrique Siqueira</h1>
+<h3 align="left">Desenvolvedor Mobile</h3>
 
 <picture>
 <source 
