@@ -1,5 +1,5 @@
 <h1 align="left">Hi Dev's, me chamo Henrique Siqueira</h1>
-<h3 align="left">Desenvolvedor Mobile</h3>
+<h3 align="left">Mobile developer</h3>
 
 <picture>
 <source 
